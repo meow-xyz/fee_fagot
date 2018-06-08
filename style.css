@@ -4,6 +4,19 @@ body {
   background-color: #AFEEEE;
 }
 
+#nav {
+    padding: 0; margin: 0;
+    text-align: right;
+}
+#nav li {
+    display: inline;
+    list-style: none;
+}
+#nav a {
+    display:inline-block;
+    margin: 5px 4px;
+}
+
 h1 {
   font-family: 'Cookie', cursive;
   font-size: 12vw;
