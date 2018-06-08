@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <link rel="stylesheet" href="style.css"/>
   <title>Fun-club de Fee Fagot</title>
 </head>
 <body>
   <h1>La Fee Fagot</h1>
   <p>La fée Fagot donne vie à tous les objets en bois (notamment à Pinocchio). Ses aventures commencent par un karaoké la présentant en musique ; puis elle réalise des vœux, avec une certaine maladresse. Cette fée est une parodie de la Fée bleue, qui donne la vie à Pinocchio dans le film Disney du même nom. La fée Fagot est doublée par le scénariste de bande dessinée Fabien Vehlmann.</p>
 <div class="video">
-  <video src="" width="300px" height="40%"></video>
-  <video src="" width="300px" height="40%"></video>
-  <video src="" width="300px" height="40%"></video>
+  <video src="" width="300px" height="40%"></video><!--description-->
+  <video src="" width="300px" height="40%"></video><!--description-->
+  <video src="" width="300px" height="40%"></video><!--description-->
+</div>
+<div class="register">
+  <p>Votre Prenom</p>
+  <input type="text" size="30">
 </div>
 </body>
 </html>
