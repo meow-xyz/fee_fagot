@@ -1,2 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #AFEEEE;
+}
 h1 {
+  font-family: 'Cookie', cursive;
+  font-size: 12vw;
+  padding-left: 35%;
 }
