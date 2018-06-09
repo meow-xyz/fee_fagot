@@ -1,46 +1,54 @@
 body {
   margin: 2%;
-  padding: 0;
+  padding: 5%;
   background-color: #AFEEEE;
 }
-
 #nav {
     padding: 0; margin: 0;
     text-align: right;
 }
 #nav li {
-    display: inline;
-    list-style: none;
+  display: inline;
+  list-style: none
 }
 #nav a {
     display:inline-block;
     margin: 5px 4px;
 }
-
 h1 {
   font-family: 'Cookie', cursive;
   font-size: 12vw;
-  padding-left: 35%;
+  padding-left: ;
+  text-align: right;
 }
-
-.video {
-	text-align: center;
-	margin-bottom: 100px;
-	margin-top: 50px;
+img {
+  float: left;
 }
-
+p {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  padding-bottom: 2%;
+}
+.acceuil {
+  display: inline-block;
+}
+iframe {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+input {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
 .register {
 	text-align: center;
 }
-
 footer {
 	margin-top: 100px;
 }
-
 .simplon {
 	margin-left: 5px;
 }
 
-.nom {
-	margin-right: 5px;
-}
