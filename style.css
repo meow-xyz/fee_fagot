@@ -2,6 +2,9 @@ body {
   margin-top: 2%;
   margin-right: 2%;
   background-color: #AFEEEE;
+  background-image: url(https://storage.canalblog.com/76/18/522608/38138368.png);
+  background-position: top left;
+  background-repeat: no-repeat;
 }
 #nav {
     padding: 0; margin: 0;
@@ -21,16 +24,13 @@ h1 {
   padding-left: ;
   text-align: right;
 }
-img {
-  float: left;
-}
 p {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
   padding-bottom: 2%;
 }
-.acceuil {
-  display: inline-block;
+.paragraph {
+  padding-top: 10%;
 }
 iframe {
    display: block;
@@ -41,9 +41,6 @@ input {
    display: block;
    margin-left: auto;
    margin-right: auto;
-}
-.register {
-   
 }
 footer {
     align-items: center;
